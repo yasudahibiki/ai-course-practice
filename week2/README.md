@@ -1,1 +1,2 @@
 - [dog_expand.ipynb](https://colab.research.google.com/drive/1sOcNL1BjKfz9FvyXc1T9qteuvxHyVWJa?hl=ja)
+- [sum_numeric_list.ipynb](https://colab.research.google.com/drive/1NlLTLsAsopECnqorJVghbGCbtBQV2935?hl=ja)
