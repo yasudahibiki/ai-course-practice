@@ -1,1 +1,2 @@
 - [01_standardization(Colab)](https://colab.research.google.com/drive/1l6ud9PNluaFCLOiEeIB3z1gXjW9mrKXz?authuser=0)
+- [02_titanic(Colab)](https://colab.research.google.com/drive/1QA8Mz8AxEf_2viHKhW_xV_34Qg-WU06n?authuser=0#scrollTo=fu5x3Q713igt)
