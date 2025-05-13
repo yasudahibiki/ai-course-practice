@@ -1,1 +1,1 @@
-
+- [01_standardization(Colab)](https://colab.research.google.com/drive/1l6ud9PNluaFCLOiEeIB3z1gXjW9mrKXz?authuser=0)
