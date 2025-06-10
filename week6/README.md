@@ -1,1 +1,1 @@
-- (https://colab.research.google.com/drive/1XE36xEvMFNC1XIs2uFgrrHDX2DtN3h_9#scrollTo=NAPBq63iGWjJ)
+- [画像認識(Colab)](https://colab.research.google.com/drive/1XE36xEvMFNC1XIs2uFgrrHDX2DtN3h_9#scrollTo=NAPBq63iGWjJ)
